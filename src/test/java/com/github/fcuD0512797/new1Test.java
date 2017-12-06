@@ -7,7 +7,7 @@ import static org.junit.Assert.*;
 public class new1Test {
     @Test
     public void test1() throws Exception {
-        assertEquals(0,0);
+        assertEquals(10+1,11);
     }
 
 }
